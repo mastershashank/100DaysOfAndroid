@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "958808181118",
+    "firebase_url": "https://fir-testing-529cc-default-rtdb.firebaseio.com/",
+    "project_id": "fir-testing-529cc",
+    "storage_bucket": "fir-testing-529cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958808181118:android:30dcae4251337b57bacb2f",
+        "android_client_info": {
+          "package_name": "com.example.firebasetesting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958808181118-v6mip0st44i0v1ult6t7u4vl5eqf1426.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBVK3Rr8P4KaOEuLjydYwFmj_PUr0cLts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958808181118-v6mip0st44i0v1ult6t7u4vl5eqf1426.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
